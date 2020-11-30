@@ -215,13 +215,13 @@ input, select, textarea {
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
-		width: 1500px;
+		width: 1400px;
 	}
 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
 
 			.container {
-				width: 1400px;
+				width: 1350px;
 			}
 
 		}
