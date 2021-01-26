@@ -37,7 +37,6 @@ ol, ul {
 	list-style: none;
 }
 iframe {
-  vertical-align: baseline;
   top: 0;
   left: 0;
   bottom: 0;
